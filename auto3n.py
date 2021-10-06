@@ -1,7 +1,12 @@
 import math
+import time
 run = 1
+runnumn = 295147905179352825856
+
+
 while run == 1:
-    n = int(input("Pick a number? >>>"))
+    runnumn = runnumn + 1
+    n = runnumn
     ornum = n
     highnum = n
     runtimes = 0
@@ -40,6 +45,7 @@ while run == 1:
     print('-------------------------------------------')
     print('')
     print('')
+    time.sleep(.45)
 
 
 # print(runtimes)
