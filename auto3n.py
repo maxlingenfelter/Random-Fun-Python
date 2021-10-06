@@ -41,7 +41,6 @@ while run == 1:
     print('Original Number > ' + str(ornum))
     print('Highest Number Reached > ' + str(highnum))
     print('Times Checked > ' + str(runtimes))
-    print('Graph')
     print('-------------------------------------------')
     print('')
     print('')
