@@ -44,7 +44,6 @@ while run == 1:
     print('-------------------------------------------')
     print('')
     print('')
-    time.sleep(.45)
 
 
 # print(runtimes)
