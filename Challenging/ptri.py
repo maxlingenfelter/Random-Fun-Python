@@ -23,7 +23,7 @@ while run == 1:
             Prod = j*Prod
         return Prod
 
-    print("Factorial of", 3, "is", factorial(3))
+    # print("Factorial of", 7, "is", factorial(7)) = 720
 
     # Define Combination
 
@@ -31,23 +31,9 @@ while run == 1:
         Choose = factorial(n)/(factorial(n-m)*factorial(m))
         return Choose
 
-    print("Combination of", 7, "and", 3, "is", combination(7, 3))
+    # For example, to find the 4th number(3rd position in Python) on the 7th row we would say:
+    print("Combination of row", n, "and position", 3, "is", combination(n, 3))
 
-    # if n % 2 == 0:
-    #     print("Even")
-    #     d = len(a)/2
-    #     midar = a[d]
-    #     print(midar)
-
-    # if n % 2 == 1:
-    #     print("Odd")
-    #     d = len(a)
-    #     midar = d/2
-    #     print(midar)
-
-    # END
-    # print('END')
-    # print(a)
-    # print("Factorial of", n, "is", factorial(n))
+    length = len(a)
 
 # Driver Code
