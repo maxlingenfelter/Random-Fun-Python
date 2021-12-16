@@ -9,9 +9,14 @@ import math
 
 
 run = 1
+n = -1
+maxrowval = 15
+# The max row value it will calculate
 while run == 1:
-    n = int(input("Pick a line number? >>>"))
-
+    n = n + 1
+    max = n+1/2
+    if n == maxrowval:
+        run = 2
     # Define factorial
 
     def factorial(a):
@@ -47,15 +52,6 @@ while run == 1:
         ar[c] = combination(n, c)
     # For each value in the array combign it with the row  number and use the factorial funtion.
 
-    print('')
-    print('')
-    print('-------------------------------------------')
-    print('The values of row ', n, ' are bellow.')
     print(ar)
-    print('Thank you for using my script. -Max Lingenfelter')
-    print('Credit To Chandra Hull For The Help!')
-    print('-------------------------------------------')
-    print('')
-    print('')
 
     # Driver Code
