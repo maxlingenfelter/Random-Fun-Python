@@ -14,4 +14,4 @@ while run == 1:
         print(out)
 
         out2 = out2 + out
-    print(out2)
+    print('Output =', out2)
