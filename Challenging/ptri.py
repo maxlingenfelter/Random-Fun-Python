@@ -52,7 +52,7 @@ while run == 1:
     print('-------------------------------------------')
     print('The values of row ', n, ' are bellow.')
     print(ar)
-    print('Thank you for using my script. -Max Lingenfelter')
+    print('Thank you for using my script. -Max')
     print('Credit To Chandra Hull For The Help!')
     print('-------------------------------------------')
     print('')
