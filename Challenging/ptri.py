@@ -2,12 +2,6 @@ import numpy as np
 import statistics
 import math
 
-
-# def factorial(n):
-#     # single line to find factorial
-#     return 1 if (n == 1 or n == 0) else n * factorial(n - 1)
-
-
 run = 1
 while run == 1:
     n = int(input("Pick a line number? >>>"))
@@ -20,7 +14,6 @@ while run == 1:
             Prod = j*Prod
         return Prod
 
-    # print("Factorial of", 7, "is", factorial(7)) = 720
 
     # Define Combination
 
