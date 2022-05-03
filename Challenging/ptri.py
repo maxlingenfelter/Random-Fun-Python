@@ -16,37 +16,34 @@ while run == 1:
 
 
     # Define Combination
-
     def combination(n, m):
         Choose = factorial(n)/(factorial(n-m)*factorial(m))
-        # "m" is the postion in the array, "n" is the row number that you wish to get the values of.
+        print("Choose = "+str(factorial(n))+"/"+str((factorial(n-m)*factorial(m))))
         return Choose
 
     # For example, to find the 4th number(3rd position in Python) on the 7th row we would say:
     # print("Combination of row", 7, "and position", 3, "is", combination(7, 3))
 
-    ar = []
+    array = []
 
-    length = len(ar)
+    length = len(array)
 
     len2 = n+1
     for c in range(len2):
-        ar.append(1)
-    # Add blank values to the array as placeholders
+        array.append(1)
+    # Add blank values to the arrayray as placeholders
 
-    # print(ar)
+    # print(array)
 
     for c in range(n+1):
-        ar[c] = combination(n, c)
-    # For each value in the array combign it with the row  number and use the factorial funtion.
+        array[c] = combination(n, c)
+    # For each value in the arrayray combign it with the row  number and use the factorial funtion.
 
     print('')
     print('')
     print('-------------------------------------------')
-    print('The values of row ', n, ' are bellow.')
-    print(ar)
-    print('Thank you for using my script. -Max')
-    print('Credit To Chandra Hull For The Help!')
+    print('The values of row ', n, ' arraye bellow.')
+    print(array)
     print('-------------------------------------------')
     print('')
     print('')

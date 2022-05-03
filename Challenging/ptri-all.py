@@ -10,7 +10,7 @@ import math
 
 run = 1
 n = -1
-maxrowval = 15
+maxrowval = 200000000
 # The max row value it will calculate
 while run == 1:
     n = n + 1
