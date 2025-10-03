@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Impact Dashboard — Employability Skills</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>  <style>
+    :root {
+      --bg:#fff;
+      --muted:#6e6e6e;
+      --border:#e2e2e5;
+      --radius:12px;
+      --shadow:0 4px 14px rgba(0,0,0,0.04);
+      --fw-heading:600;
+      --transition:.15s ease;
+    }
+    *{box-sizing:border-box;}
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+      background:#f7f7f8;
+      color:#1f2530;
+      line-height:1.4;
+      min-height:100vh;
+    }
+    .wrapper{
+      max-width:1200px;
+      margin:0 auto;
+      padding:28px 20px 60px;
+    }
+    .header{
+      padding:24px 28px;
+      background:var(--bg);
+      border:1px solid var(--border);
+      border-radius:16px;
+      margin-bottom:32px;
+      display:flex;
+      flex-wrap:wrap;
+      gap:16px;
+      align-items:center;
+      justify-content:space-between;
+    }
+    .title-block{
+      flex:1 1 auto;
+    }
+    .title{
+      font-size:1.9rem;
+      margin:0;
+      font-weight:700;
+    }
+    .subtitle{
+      margin:4px 0 0;
+      font-size:1rem;
+      color:var(--muted);
+    }
+    .range{
+      background:#f0f0f5;
+      padding:8px 16px;
+      border-radius:999px;
+      font-size:.9rem;
+      display:inline-block;
+      color:#2c2c33;
+      margin-top:4px;
+    }
+    .metrics{
+      display:grid;
+      gap:16px;
+      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      margin-bottom:32px;
+    }
+    .card{
+      background:var(--bg);
+      border:1px solid var(--border);
+      border-radius:var(--radius);
+      padding:20px 22px;
+      position:relative;
+      overflow:hidden;
+      box-shadow:var(--shadow);
+      transition:transform var(--transition),box-shadow var(--transition);
+    }
+    .card:hover{
+      transform:translateY(-2px);
+      box-shadow:0 8px 28px rgba(0,0,0,0.06);
+    }
+    .metric-label{
+      text-transform:uppercase;
+      font-size:.65rem;
+      letter-spacing:1px;
+      font-weight:600;
+      color:var(--muted);
+      margin-bottom:6px;
+    }
+    .metric-value{
+      font-size:2.25rem;
+      margin:0;
+      font-weight:700;
+      line-height:1.1;
+    }
+    .metric-extra{
+      margin-top:6px;
+      font-size:.75rem;
+      color:#444;
+    }
+    .small{
+      font-size:.75rem;
+      color:var(--muted);
+    }
+    .charts{
+      display:grid;
+      gap:28px;
+      grid-template-columns:1fr 1fr;
+      margin-bottom:36px;
+    }
+    .full{
+      grid-column:1 / -1;
+    }
+    .chart-card{
+      padding:22px 18px 16px;
+      border:1px solid var(--border);
+      border-radius:14px;
+      background:var(--bg);
+      box-shadow:var(--shadow);
+      display:flex;
+      flex-direction:column;
+      gap:6px;
+    }
+    .chart-title{
+      font-size:1.25rem;
+      margin:0 0 4px;
+      font-weight:600;
+    }
+    .chart-sub{
+      font-size:.85rem;
+      margin:0 0 14px;
+      color:var(--muted);
+    }
+    .chart-wrapper{
+      flex:1;
+      position:relative;
+      min-height:260px;
+    }
+    .insights{
+      display:grid;
+      gap:20px;
+      grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+      margin-bottom:40px;
+    }
+    .insight{
+      background:#fafafa;
+      border:1px solid var(--border);
+      border-radius:12px;
+      padding:18px 16px;
+      position:relative;
+    }
+    .insight strong{
+      display:block;
+      margin-bottom:6px;
+      font-size:1rem;
+      font-weight:600;
+    }
+    .badges{
+      margin-top:8px;
+    }
+    .badge{
+      display:inline-block;
+      padding:6px 14px;
+      border-radius:999px;
+      background:#e8e8ec;
+      font-size:.65rem;
+      margin-right:6px;
+      margin-bottom:4px;
+      font-weight:600;
+    }
+    .footer{
+      text-align:center;
+      font-size:.7rem;
+      color:var(--muted);
+      margin-top:60px;
+    }
+    @media (max-width:1000px){
+      .charts{grid-template-columns:1fr;}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="header">
+      <div class="title-block">
+        <h1 class="title">Beta Test Impact</h1>
+        <p class="subtitle">Employability Skills & Emotional Development • 11-day window</p>
+        <div class="range">Nov 9 – Nov 20, 2024</div>
+      </div>
+      <div style="min-width:180px;">
+        <p class="small">Pitch-ready summary: 98 active students, 1,895 activities, ~95 hours total time spent.</p>
+      </div>
+    </div>
+
+    <div class="metrics">
+      <div class="card">
+        <div class="metric-label">Active Students</div>
+        <p class="metric-value">98</p>
+        <div class="metric-extra">Students with first+last check-ins</div>
+      </div>
+      <div class="card">
+        <div class="metric-label">Total Activities</div>
+        <p class="metric-value">1,895</p>
+        <div class="metric-extra">~19.3 activities / student</div>
+      </div>
+      <div class="card">
+        <div class="metric-label">Completion Rate</div>
+        <p class="metric-value">96.2%</p>
+        <div class="metric-extra">High engagement across assigned tasks</div>
+      </div>
+      <div class="card">
+        <div class="metric-label">Time Spent</div>
+        <p class="metric-value">≈95h</p>
+        <div class="metric-extra">Total active time on platform (sessions aggregated)</div>
+      </div>
+      <div class="card">
+        <div class="metric-label">Improved Mood</div>
+        <p class="metric-value">14</p>
+        <div class="metric-extra">Students shifted negative → positive</div>
+      </div>
+      <div class="card">
+        <div class="metric-label">Avg Emotion Change</div>
+        <p class="metric-value">+0.05</p>
+        <div class="metric-extra">Normalized score (−1 to 1)</div>
+      </div>
+    </div>
+
+    <div class="charts">
+      <div class="chart-card full">
+        <h3 class="chart-title">Daily Engagement Trend</h3>
+        <p class="chart-sub">Activities per day across the beta period</p>
+        <div class="chart-wrapper">
+          <canvas id="engagementTrend"></canvas>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <h3 class="chart-title">Skill Focus (minutes)</h3>
+        <p class="chart-sub">Time invested by skill category</p>
+        <div class="chart-wrapper">
+          <canvas id="skillsFocus"></canvas>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <h3 class="chart-title">Activity Distribution</h3>
+        <p class="chart-sub">Top modalities by completion count</p>
+        <div class="chart-wrapper">
+          <canvas id="activityDistribution"></canvas>
+        </div>
+      </div>
+
+      <div class="chart-card full">
+        <h3 class="chart-title">Leadership Development</h3>
+        <p class="chart-sub">Completions across core leadership topics</p>
+        <div class="chart-wrapper" style="min-height:240px;">
+          <canvas id="leadershipProgress"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="insights">
+      <div class="insight">
+        <strong>Skill Development Focus</strong>
+        Deep engagement in employability areas: leadership, communication, problem solving, and reflection.  
+        <div class="badges">
+          <span class="badge">Time Management</span>
+          <span class="badge">Active Listening</span>
+          <span class="badge">Problem Solving</span>
+          <span class="badge">Self-Reflection</span>
+        </div>
+        <div style="margin-top:6px;font-size:.85rem;">
+          Avg. leadership video duration: 5.5 mins; journal/reflection entries: 495 total.
+        </div>
+      </div>
+      <div class="insight">
+        <strong>Sustained Engagement</strong>
+        Initial peak followed by consistent usage. Students averaged ~158 activities per day after the early spike, showing retention of interest.
+      </div>
+      <div class="insight">
+        <strong>Emotional Shift</strong>
+        14 students moved from negative to positive dominant emotional state over the window. This is coupled with increased participation in mindfulness and leadership content.
+      </div>
+      <div class="insight">
+        <strong>High Impact Activities</strong>
+        Leadership Minutes and Mindful Moments drove both skill and emotional development, with high completion counts and meaningful time investment.
+      </div>
+    </div>
+
+    <div class="footer">
+      <div>Generated from beta test data • Nov 9–20, 2024 • 98 unique students • ~95 hours total platform time</div>
+    </div>
+  </div>
+
+  <script>
+    // Source data (placeholder / can be injected dynamically)
+    const dailyActivities = {
+      '2024-11-09': 31,
+      '2024-11-10': 6,
+      '2024-11-11': 445,
+      '2024-11-12': 329,
+      '2024-11-13': 205,
+      '2024-11-14': 239,
+      '2024-11-15': 183,
+      '2024-11-17': 6,
+      '2024-11-18': 147,
+      '2024-11-19': 144,
+      '2024-11-20': 160
+    };
+
+    const activityTypes = {
+      'LEADERSHIP_MINUTES': { count: 636, avgDuration: 328.4, skill: 'Leadership & Communication' },
+      'MINDFUL_MOMENT': { count: 526, avgDuration: 120.6, skill: 'Emotional Intelligence' },
+      'PAINT': { count: 194, avgDuration: 121.1, skill: 'Creativity & Expression' },
+      'WORD_SEARCH': { count: 152, avgDuration: 104.0, skill: 'Focus & Attention' },
+      'JIGSAW': { count: 122, avgDuration: 198.6, skill: 'Problem Solving' },
+      'VIDEO': { count: 94, avgDuration: 109.8, skill: 'Learning & Development' },
+      'JOURNAL': { count: 87, avgDuration: 42.1, skill: 'Self-Reflection' },
+      'SUDOKU': { count: 62, avgDuration: 92.0, skill: 'Logical Thinking' },
+      'BREATHING': { count: 22, avgDuration: 26.8, skill: 'Stress Management' }
+    };
+
+    const leadershipTopics = [
+      { title: 'Time Management - Intro', completions: 39 },
+      { title: 'Time Management - Goals', completions: 38 },
+      { title: 'Time Management - Prioritize', completions: 41 },
+      { title: 'Time Management - Organize', completions: 40 },
+      { title: 'Communication - Four Types', completions: 42 },
+      { title: 'Communication - Verbal Tips', completions: 38 },
+      { title: 'Communication - Active Listening', completions: 44 },
+      { title: 'Problem Solving - Plan', completions: 37 },
+      { title: 'Problem Solving - Pounce', completions: 36 },
+      { title: 'Problem Solving - Ponder', completions: 35 }
+    ];
+
+    // Chart defaults (minimal)
+    const commonOptions = {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          labels: {
+            font: { family: '-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif', size: 12 },
+            boxWidth: 12,
+          }
+        },
+        tooltip: {
+          backgroundColor: '#fff',
+          titleColor: '#222',
+          bodyColor: '#333',
+          borderColor: '#d8d8d8',
+          borderWidth: 1,
+          padding: 8,
+          displayColors: false
+        }
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { color: '#444' } },
+        y: { grid: { color: '#ebebed' }, ticks: { color: '#444' }, beginAtZero: true }
+      }
+    };
+
+    // Engagement trend
+    const engCtx = document.getElementById('engagementTrend').getContext('2d');
+    new Chart(engCtx, {
+      type: 'line',
+      data: {
+        labels: Object.keys(dailyActivities).map(d => {
+          const dt = new Date(d);
+          return dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }),
+        datasets: [{
+          label: 'Daily Activities',
+          data: Object.values(dailyActivities),
+          borderColor: '#222',
+          backgroundColor: 'rgba(34,34,34,0.08)',
+          borderWidth: 2,
+          pointRadius: 4,
+          pointBackgroundColor: '#222',
+          tension: 0.3,
+          fill: true
+        }]
+      },
+      options: {
+        ...commonOptions,
+        plugins: {
+          ...commonOptions.plugins,
+          legend: { display: false }
+        },
+        scales: {
+          x: { grid: { display: false }, ticks: { color: '#444' } },
+          y: { beginAtZero: true, grid: { color: '#ebebed' }, ticks: { color: '#444' }, title: { display: true, text: 'Activities' } }
+        }
+      }
+    });
+
+    // Skill focus (doughnut of minutes)
+    const skillsCtx = document.getElementById('skillsFocus').getContext('2d');
+    const skillsData = Object.entries(activityTypes).map(([k,v]) => ({
+      skill: v.skill,
+      minutes: (v.count * v.avgDuration / 60)
+    })).sort((a,b)=>b.minutes-a.minutes);
+    new Chart(skillsCtx, {
+      type: 'doughnut',
+      data: {
+        labels: skillsData.map(d => d.skill),
+        datasets: [{
+          data: skillsData.map(d => d.minutes.toFixed(1)),
+          backgroundColor: ['#444','#666','#888','#aaa','#ccc','#e0e0e0','#f0f0f0','#d1d1d1','#b5b5b5'],
+          borderWidth: 0
+        }]
+      },
+      options: {
+        ...commonOptions,
+        plugins: {
+          ...commonOptions.plugins,
+          tooltip: {
+            callbacks: {
+              label: ctx => `${ctx.label}: ${ctx.parsed} mins`
+            }
+          }
+        }
+      }
+    });
+
+    // Activity distribution
+    const distCtx = document.getElementById('activityDistribution').getContext('2d');
+    const topActivities = Object.entries(activityTypes)
+      .sort((a,b)=>b[1].count - a[1].count)
+      .slice(0,6);
+    new Chart(distCtx, {
+      type: 'bar',
+      data: {
+        labels: topActivities.map(([k]) => k.replace(/_/g,' ').toLowerCase().replace(/\b\w/g,l=>l.toUpperCase())),
+        datasets: [{
+          label: 'Completions',
+          data: topActivities.map(([,d])=>d.count),
+          backgroundColor: '#222',
+          borderRadius: 4,
+          barPercentage: 0.65,
+          categoryPercentage: 0.75
+        }]
+      },
+      options: {
+        ...commonOptions,
+        plugins: { ...commonOptions.plugins, legend: { display: false } },
+        scales: {
+          x: { grid: { display: false }, ticks: { color: '#444' } },
+          y: { beginAtZero: true, ticks: { color: '#444' }, grid: { color: '#ebebed' } }
+        }
+      }
+    });
+
+    // Leadership progress (horizontal)
+    const leadCtx = document.getElementById('leadershipProgress').getContext('2d');
+    new Chart(leadCtx, {
+      type: 'bar',
+      data: {
+        labels: leadershipTopics.map(t => t.title),
+        datasets: [{
+          label: 'Completions',
+          data: leadershipTopics.map(t => t.completions),
+          backgroundColor: leadershipTopics.map((t,i)=> i < 4 ? '#444' : i < 7 ? '#666' : '#888'),
+        }]
+      },
+      options: {
+        ...commonOptions,
+        indexAxis: 'y',
+        plugins: { ...commonOptions.plugins, legend: { display: false } },
+        scales: {
+          x: { beginAtZero: true, max: 50, ticks: { color: '#444' }, grid: { color: '#ebebed' } },
+          y: { ticks: { color: '#444' }, grid: { display: false } }
+        }
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,843 @@
+id,studentId,checkInTime,emojis,description
+40,16,2024-11-08 05:36:52.627,"{Happy,Relaxed,Focused}",
+41,16,2024-11-08 05:38:16.006,"{Happy,Relaxed,Focused}",
+42,17,2024-11-08 05:38:24.106,"{Worried,Focused,Frustrated}",
+43,16,2024-11-08 05:39:15.946,{Worried},
+44,16,2024-11-08 05:39:42.752,{Worried},
+45,351,2024-11-08 06:09:59.506,"{Mad,Focused,Worried}",
+46,334,2024-11-08 06:18:05.033,"{Happy,Tired,Anxious}",Olo
+47,351,2024-11-08 06:23:54.009,"{Relaxed,Worried,Tired}",
+48,334,2024-11-08 06:42:21.955,{Relaxed},
+49,59,2024-11-08 12:54:35.729,"{Happy,Excited,Focused}","It's Friday!"
+50,59,2024-11-08 13:02:40.303,"{Excited,Happy,Focused}",
+51,58,2024-11-08 13:25:08.73,"{Happy,Relaxed,Focused}",
+52,17,2024-11-08 19:50:44.445,"{Worried,Anxious,Focused}",
+53,383,2024-11-08 19:58:35.594,"{Worried,Relaxed,Frustrated}",
+54,17,2024-11-08 20:05:32.849,"{Anxious,Focused,Tired}",
+56,334,2024-11-08 20:25:57.826,"{Happy,Relaxed,Focused}",
+57,351,2024-11-08 21:02:24.94,"{Happy,Worried,Tired}",
+58,56,2024-11-09 01:09:50.163,{Happy},
+59,58,2024-11-09 12:33:44.66,"{Happy,Relaxed,Excited}",
+60,58,2024-11-09 12:35:20.789,"{Happy,Relaxed,Excited}",
+61,17,2024-11-09 16:28:18.051,"{Worried,Focused,Frustrated}",
+62,58,2024-11-09 18:09:40.381,"{Happy,Relaxed,Excited}","Can't wait to learn today! "
+63,16,2024-11-09 18:38:39.035,"{Happy,Relaxed,Focused}",
+64,334,2024-11-09 19:59:21.574,"{Happy,Relaxed,Focused}",
+65,59,2024-11-09 22:29:46.483,"{Happy,Relaxed,Worried}",
+66,59,2024-11-10 03:17:18.74,{Focused},"i just nailed the challenge lol
+"
+67,59,2024-11-10 03:18:45.181,"{Sad,Worried,Relaxed}",
+68,59,2024-11-10 19:09:51.662,"{Happy,Relaxed,Excited}",
+69,58,2024-11-11 02:15:47.709,"{Happy,Relaxed,Excited}",
+70,17,2024-11-11 06:22:32.559,"{Relaxed,Worried,Frustrated}",
+71,349,2024-11-11 13:36:24.235,"{Happy,Relaxed,Tired}",I am ready to learn!
+72,402,2024-11-11 13:38:45.14,"{Tired,Relaxed,Happy}","I feel tired because I got bad sleep
+."
+73,381,2024-11-11 13:41:22.533,{Happy},i get to be with my friends  
+74,350,2024-11-11 13:44:22.753,"{Relaxed,Focused}",I feel  relaxed but  a little focused
+75,416,2024-11-11 13:45:13.627,{Happy},
+76,416,2024-11-11 13:45:26.576,{Happy},
+77,416,2024-11-11 13:48:02.223,{Happy},its a good day
+78,415,2024-11-11 13:48:41.16,{Happy},
+79,392,2024-11-11 13:48:46.655,"{Happy,Relaxed}",
+80,341,2024-11-11 13:49:42.695,"{Relaxed,Focused}",
+81,414,2024-11-11 13:50:29.789,{Excited},because I am going on a trip to see my grandma
+82,399,2024-11-11 13:50:44.18,{Happy},because it is a new week and I am happy about that
+83,397,2024-11-11 13:50:44.9,"{Tired,Relaxed}","I woke up at five o clock
+"
+84,417,2024-11-11 13:51:43.27,"{Happy,Tired,Excited}",I am tired because I stayed up to late last night. And I am happy because I had a good morning. I am excited because after school today I have theater practice and we get to wear our costumes.
+85,407,2024-11-11 13:52:05.371,{Anxious},
+86,379,2024-11-11 13:53:25.736,{Tired},I woke up early
+87,367,2024-11-11 13:53:44.771,{Happy},because I happy what is going to happen
+88,384,2024-11-11 13:54:54.114,"{Relaxed,Happy,Excited}","I feel happy,excited and relaxed because i got so much sleep last night."
+89,347,2024-11-11 13:55:03.423,{Happy},I got up in a good mood.
+90,381,2024-11-11 13:55:23.019,{Happy},
+91,402,2024-11-11 13:55:24.382,"{Tired,Happy,Relaxed}",I got bad sleep last night .
+92,413,2024-11-11 13:55:27.213,{Sad},
+93,415,2024-11-11 13:55:34.414,{Happy},
+94,416,2024-11-11 13:56:43.891,{Happy},
+95,388,2024-11-11 13:57:05.09,{Happy},"The car ride made me happy
+
+
+
+"
+96,407,2024-11-11 13:57:24.397,{Anxious},
+97,389,2024-11-11 13:57:50.378,{Tired},I woke up early
+98,387,2024-11-11 13:58:47.973,"{Relaxed,Happy,Focused}","
+"
+99,388,2024-11-11 13:59:18.61,{Happy},I have a good car ride
+100,414,2024-11-11 14:00:29.504,{Excited},because i am going on a trip to see my grandma this week.
+101,376,2024-11-11 14:00:39.816,"{Tired,Excited,Relaxed}",
+102,412,2024-11-11 14:01:20.718,{Happy},
+103,378,2024-11-11 14:01:42.306,{Tired},
+104,359,2024-11-11 14:01:44.3,{Frustrated},
+105,386,2024-11-11 14:02:24.542,{Tired},My brother is way to loud.
+106,341,2024-11-11 14:02:28.419,"{Relaxed,Focused}",
+107,355,2024-11-11 14:02:58.279,{Tired},cause I was sick over the weekend
+108,371,2024-11-11 14:03:09.082,{Tired},
+109,343,2024-11-11 14:03:18.428,{Tired},"
+
+
+
+"
+110,384,2024-11-11 14:03:41.405,"{Relaxed,Happy,Excited}",Cause sleep.
+111,403,2024-11-11 14:04:09.936,{Tired},
+112,366,2024-11-11 14:04:21.769,{Excited},
+113,377,2024-11-11 14:04:40.384,"{Happy,Relaxed}",Because it is comfy day and I love school!!!
+114,389,2024-11-11 14:04:43.609,{Tired},I woke up early
+115,370,2024-11-11 14:04:47.629,"{Relaxed,Excited,Happy}",
+116,348,2024-11-11 14:04:57.909,{Relaxed},"Because I am in pjs because it is relaxed day.
+"
+117,392,2024-11-11 14:06:24.519,"{Happy,Relaxed}",
+118,380,2024-11-11 14:10:12.365,{Tired},"I am tired because I didn't sleep well
+"
+119,350,2024-11-11 14:10:35.685,{Happy},
+120,336,2024-11-11 17:28:02.28,{Relaxed},because I am relaxed.
+121,391,2024-11-11 17:28:41.367,"{Focused,Relaxed,Happy}",
+122,410,2024-11-11 17:28:55.064,{Tired},"I DON'T KNOW"
+123,394,2024-11-11 17:30:41.963,"{Tired,Excited}","I'm tired because I got up early today and I'm excited about my basketball game tomorrow"
+124,418,2024-11-11 17:30:57.304,{Focused},
+125,363,2024-11-11 17:31:31.536,{Mad},I am mad because I have a doctor appointment and I have to miss some school.
+126,356,2024-11-11 17:31:58.571,{Relaxed},
+127,364,2024-11-11 17:32:11.434,"{Tired,Happy}",
+128,404,2024-11-11 17:32:31.328,"{Excited,Happy}",we have a dress up week for school
+129,398,2024-11-11 17:32:48.623,{Relaxed},"because
+
+"
+130,351,2024-11-11 17:32:54.351,"{Relaxed,Happy}",
+131,372,2024-11-11 17:33:03.07,{Happy},
+132,395,2024-11-11 17:33:36.081,"{Happy,Relaxed,Excited}",
+133,335,2024-11-11 17:33:57.053,"{Happy,Relaxed,Excited}",
+134,391,2024-11-11 17:35:07.346,"{Happy,Relaxed}",
+135,410,2024-11-11 17:35:17.293,{Tired},"I DON'T KNOW"
+136,418,2024-11-11 17:35:23.927,"{Focused,Excited,Happy}",i did my family photos on saterday
+137,336,2024-11-11 17:36:02.158,{Happy},
+138,337,2024-11-11 17:36:07.448,"{Frustrated,Tired}",I all was am
+139,336,2024-11-11 17:36:11.892,{Happy},
+140,356,2024-11-11 17:38:55.596,"{Tired,Relaxed,Focused}",
+141,395,2024-11-11 17:39:33.143,{Happy},
+142,351,2024-11-11 17:39:39.816,"{Happy,Relaxed,Excited}",
+143,363,2024-11-11 17:39:50.016,"{Happy,Relaxed,Focused}",
+144,364,2024-11-11 17:40:26.283,"{Tired,Happy}",
+145,398,2024-11-11 17:40:30.046,{Relaxed},
+146,372,2024-11-11 17:40:45.402,{Happy},
+147,394,2024-11-11 17:42:22.737,{Tired},
+148,404,2024-11-11 17:42:42.106,"{Happy,Relaxed}","These videos helped with my time management
+"
+149,337,2024-11-11 17:42:59.708,{Relaxed},
+150,418,2024-11-11 17:44:00.345,"{Focused,Excited,Happy}",
+151,335,2024-11-11 17:44:27.052,{Happy},
+152,336,2024-11-11 17:47:07.138,{Tired},went to bed late and woke up early.
+153,391,2024-11-11 17:47:17.962,"{Happy,Relaxed}",
+154,410,2024-11-11 18:10:23.062,{Happy},I have the high score on leadership skills
+155,17,2024-11-11 18:30:10.225,"{Worried,Anxious,Frustrated}",
+156,408,2024-11-11 18:38:41.531,{Relaxed},
+157,419,2024-11-11 18:38:45.951,{Tired},
+158,339,2024-11-11 18:38:46.697,{Relaxed},
+159,374,2024-11-11 18:38:50.357,{Relaxed},
+160,382,2024-11-11 18:38:51.11,{Tired},
+161,411,2024-11-11 18:38:52.403,{Tired},
+162,385,2024-11-11 18:39:14.563,{Tired},
+163,390,2024-11-11 18:39:16.84,{Excited},because I have never tried this before
+164,400,2024-11-11 18:39:53.562,{Excited},
+165,352,2024-11-11 18:39:56.704,{Happy},Because I made my friend rage.
+166,409,2024-11-11 18:40:41.288,{Tired},"Because I didn't get ANY SLEEP!"
+167,393,2024-11-11 18:40:57.043,{Tired},"because my mom dad and sister were driving back and I didn't get a good sleep.
+"
+168,346,2024-11-11 18:41:41.843,"{Sad,Tired,Anxious}","because I'm feel tird because I ben working"
+169,411,2024-11-11 18:49:29.82,{Sad},
+170,373,2024-11-11 18:57:51.27,{Excited},
+171,375,2024-11-11 18:59:12.848,"{Relaxed,Happy,Focused}","I sleept well
+"
+172,369,2024-11-11 18:59:23.831,{Happy},because ohio state won in football
+173,360,2024-11-11 19:01:17.826,{Happy},
+174,361,2024-11-11 19:02:40.419,{Happy},because every day is a new day
+175,373,2024-11-11 19:04:16.314,{Excited},
+176,369,2024-11-11 19:06:12.558,{Happy},
+177,357,2024-11-11 19:06:44.891,"{Happy,Tired,Excited}","no
+"
+178,345,2024-11-11 19:07:24.515,"{Relaxed,Excited,Tired}",
+179,342,2024-11-11 19:08:08.655,{Happy},
+180,375,2024-11-11 19:10:05.275,{Relaxed},
+181,361,2024-11-11 19:10:06.539,{Happy},
+182,365,2024-11-11 19:10:12.982,{Frustrated},
+183,360,2024-11-11 19:11:35.169,{Happy},I woke up with a smile on my face 
+184,345,2024-11-11 19:14:21.785,"{Happy,Relaxed,Tired}",
+185,342,2024-11-11 19:14:36.023,{Happy},
+186,17,2024-11-12 13:32:55.873,{Tired},Because I am 
+187,336,2024-11-12 15:14:43.189,{Happy},
+188,403,2024-11-12 15:59:47.957,{Happy},
+189,343,2024-11-12 15:59:55.884,{Focused},
+190,454,2024-11-12 16:00:01.935,{Relaxed},
+191,413,2024-11-12 16:00:56.938,{Anxious},
+192,371,2024-11-12 16:01:18.411,"{Relaxed,Tired}",
+193,427,2024-11-12 16:02:24.478,{Happy},
+194,348,2024-11-12 16:02:38.38,{Focused},Because I want to learn hard today.
+195,451,2024-11-12 16:03:47.658,{Happy},
+196,355,2024-11-12 16:04:14.557,{Happy},cause everything is amazing
+197,359,2024-11-12 16:05:04.05,{Sad},
+198,366,2024-11-12 16:05:32.971,{Focused},
+199,378,2024-11-12 16:06:04.664,{Tired},
+200,371,2024-11-12 16:07:04.937,{Tired},
+201,370,2024-11-12 16:08:13.333,{Relaxed},
+202,412,2024-11-12 16:09:42.645,{Relaxed},
+203,343,2024-11-12 16:10:15.395,{Happy},
+204,403,2024-11-12 16:10:24.506,{Happy},
+205,427,2024-11-12 16:11:43.689,{Happy},
+206,454,2024-11-12 16:11:47.128,{Mad},
+207,413,2024-11-12 16:12:35.542,{Anxious},
+208,412,2024-11-12 16:13:31.001,"{Sad,Happy}",
+209,348,2024-11-12 16:13:41.832,{Focused},
+210,378,2024-11-12 16:14:01.294,{Tired},
+211,370,2024-11-12 16:16:03.507,{Relaxed},
+212,59,2024-11-12 17:04:46.721,"{Happy,Relaxed,Excited}",
+213,374,2024-11-12 18:13:54.952,{Relaxed},
+214,385,2024-11-12 18:13:59.182,{Relaxed},
+215,408,2024-11-12 18:14:48.091,{Tired},
+216,339,2024-11-12 18:14:49.003,{Happy},because nothing went rong
+217,411,2024-11-12 18:14:52.103,{Happy},Just cause
+218,390,2024-11-12 18:15:26.271,{Tired},
+219,400,2024-11-12 18:15:53.158,{Relaxed},because i had a good day and i helped my mommy
+220,382,2024-11-12 18:16:15.639,{Happy},because i earn may dos and diffrent things back
+221,393,2024-11-12 18:16:23.347,"{Mad,Sad}","because Brook.C hit me at recess.
+
+"
+222,419,2024-11-12 18:16:30.914,{Relaxed},
+223,346,2024-11-12 18:17:18.879,{Sad},I want to sit by my friend but they said go way
+224,362,2024-11-12 18:17:23.651,{Happy},because I am exited to do this
+225,409,2024-11-12 18:17:59.188,"{Sad,Mad}","Because my teacher didn't let me have fun may dos
+
+"
+226,352,2024-11-12 18:18:21.351,{Happy},because I made my friend mad.1111111111111111111111111111111111111111111111111111111111111111111111%
+227,396,2024-11-12 18:19:06.763,{Tired},Because I af no sleep  lastnight
+228,351,2024-11-12 18:22:17.588,{Frustrated},
+229,400,2024-11-12 18:22:27.711,{Focused},because I watch a vido
+230,374,2024-11-12 18:23:09.692,{Relaxed},
+231,411,2024-11-12 18:23:09.859,{Happy},
+232,390,2024-11-12 18:23:49.692,{Tired},"don't like school
+"
+233,385,2024-11-12 18:24:02.029,{Relaxed},
+234,393,2024-11-12 18:24:12.177,{Relaxed},
+235,390,2024-11-12 18:24:20.976,"{Worried,Excited,Tired}",
+236,409,2024-11-12 18:25:56.322,"{Tired,Sad,Mad}",
+237,337,2024-11-12 18:35:17.325,"{Relaxed,Worried}",
+238,17,2024-11-12 19:26:48.231,"{Frustrated,Sad,Relaxed}",
+239,345,2024-11-12 19:50:00.517,"{Happy,Relaxed,Tired}",
+240,407,2024-11-12 19:50:02.849,{Happy},
+241,415,2024-11-12 19:50:52.091,{Happy},
+242,375,2024-11-12 19:51:13.35,"{Relaxed,Focused,Happy}",
+243,358,2024-11-12 19:51:34.905,{Relaxed},
+244,414,2024-11-12 19:51:41.935,{Tired},
+245,377,2024-11-12 19:51:58.411,{Happy},"it has been a good day. 
+"
+246,342,2024-11-12 19:52:03.648,{Happy},
+247,389,2024-11-12 19:52:37.368,{Relaxed},no
+248,365,2024-11-12 19:52:51.238,{Relaxed},
+249,360,2024-11-12 19:53:24.362,{Happy},
+250,369,2024-11-12 19:53:34.024,{Happy},bob
+251,345,2024-11-12 19:54:39.166,{Excited},
+252,416,2024-11-12 19:54:54.982,"{Happy,Relaxed}",its a good day
+253,416,2024-11-12 19:55:29.184,{Happy},
+254,380,2024-11-12 19:56:52.892,{Sad},"because I didn't sleep at all
+"
+255,386,2024-11-12 19:57:01.054,{Worried},"Chapel is coming up and I'm scared
+"
+256,410,2024-11-12 19:57:28.307,{Relaxed},No
+257,415,2024-11-12 19:58:10.101,{Happy},
+258,373,2024-11-12 19:59:21.78,{Excited},
+259,389,2024-11-12 19:59:33.694,{Relaxed},
+260,354,2024-11-12 19:59:43.779,{Tired},Because I slept late
+261,360,2024-11-12 20:00:51.864,{Happy},
+262,414,2024-11-12 20:01:12.38,{Tired},
+263,377,2024-11-12 20:01:45.003,{Happy},It was a good day
+264,401,2024-11-12 20:06:21.954,{Excited},"My parents are coming back from New York
+"
+265,336,2024-11-12 20:11:02.034,{Tired},
+266,338,2024-11-12 20:18:07.934,{Sad},Personal reasons
+267,340,2024-11-12 20:18:45.749,"{Happy,Excited}","because it is national Lutheran schools week 
+"
+268,383,2024-11-12 20:19:21.028,"{Worried,Frustrated,Tired}",I feel worried because I am behind on homework.
+269,368,2024-11-12 20:20:33.91,{Tired},Because my mom started singing really loud to wake me up
+270,406,2024-11-12 20:21:35.904,{Tired},"it's the end of the day "
+271,353,2024-11-12 20:21:55.285,"{Happy,Tired}",Because I woke up in the middle of the night.
+272,395,2024-11-12 20:23:06.296,{Relaxed},
+273,356,2024-11-12 20:23:14.317,{Happy},
+274,391,2024-11-12 20:23:14.45,"{Happy,Relaxed,Focused}",
+275,398,2024-11-12 20:23:21.368,{Relaxed},
+276,335,2024-11-12 20:24:00.286,"{Happy,Relaxed,Excited}",
+277,394,2024-11-12 20:24:38.207,{Happy},basketball practice is today
+278,364,2024-11-12 20:25:02.817,"{Happy,Relaxed,Tired}",
+279,372,2024-11-12 20:25:05.275,{Frustrated},
+280,17,2024-11-12 20:25:45.421,{Worried},
+281,17,2024-11-12 20:26:30.656,"{Relaxed,Frustrated,Worried}",
+282,404,2024-11-12 20:26:40.495,"{Tired,Happy,Sad}","I am excited for thursday because we have a dress up day and im being the grinch im super tired because I stayed up watching a shows last episode. I'm sad cause I have a bunch of homework"
+283,17,2024-11-12 20:26:54.396,"{Frustrated,Anxious,Tired}",
+284,356,2024-11-12 20:27:46.027,{Happy},
+285,395,2024-11-12 20:28:26.657,{Excited},
+286,391,2024-11-12 20:28:35.163,"{Happy,Relaxed,Focused}",
+287,351,2024-11-12 20:29:03.766,{Happy},kfekje
+288,383,2024-11-12 20:30:19.851,"{Worried,Tired,Frustrated}",
+289,17,2024-11-12 20:30:35.353,{Anxious},
+290,353,2024-11-12 20:30:45.032,"{Happy,Relaxed}",
+291,394,2024-11-12 20:31:41.816,{Happy},qwh
+292,335,2024-11-12 20:31:46.331,"{Happy,Relaxed,Excited}",
+293,340,2024-11-12 20:31:57.039,{Happy},
+294,372,2024-11-12 20:32:21.266,{Happy},
+295,364,2024-11-12 20:33:45.193,"{Happy,Relaxed}",
+296,368,2024-11-12 20:34:36.796,{Tired},
+297,372,2024-11-12 20:37:53.222,{Happy},Hi
+298,469,2024-11-12 20:51:49.835,"{Relaxed,Anxious,Frustrated}",Trump sucks.
+299,17,2024-11-12 20:55:17.921,"{Worried,Anxious,Focused}",
+300,469,2024-11-12 21:03:17.457,{Relaxed},
+301,63,2024-11-12 21:05:17.388,{Happy},
+302,407,2024-11-13 13:33:35.536,{Tired},
+303,415,2024-11-13 13:33:48.931,{Happy},
+304,349,2024-11-13 13:35:30.165,"{Excited,Relaxed,Tired}",
+305,386,2024-11-13 13:35:32.402,{Worried},"I'm leading chapel"
+306,387,2024-11-13 13:37:33.997,"{Focused,Relaxed,Happy}",
+307,361,2024-11-13 13:38:02.57,{Relaxed},
+308,350,2024-11-13 13:38:54.101,{Relaxed}, i du not no
+309,415,2024-11-13 13:39:11.644,{Happy},
+310,399,2024-11-13 13:39:15.438,{Relaxed},because I got to sleep in and have a good start to the school
+311,367,2024-11-13 13:39:52.853,{Happy},"happy for day
+"
+312,369,2024-11-13 13:40:33.783,{Focused},bo
+313,365,2024-11-13 13:40:33.893,{Happy},
+314,402,2024-11-13 13:40:36.88,"{Tired,Relaxed}",I got ok sleep so I fell pretty good
+315,386,2024-11-13 13:40:47.646,{Happy},
+316,397,2024-11-13 13:40:50.298,"{Tired,Relaxed}","yty 67
+"
+317,336,2024-11-13 13:41:24.043,{Happy},
+318,384,2024-11-13 13:41:33.727,"{Happy,Relaxed,Excited}",Because  I went to sleep early.
+319,395,2024-11-13 13:41:53.579,{Happy},
+320,391,2024-11-13 13:43:56.775,"{Happy,Relaxed,Focused}",jwidfjjfksdfjsd
+321,392,2024-11-13 13:46:46.703,"{Frustrated,Mad}",
+322,345,2024-11-13 14:37:38.203,"{Happy,Focused,Tired}",
+323,375,2024-11-13 14:38:09.713,{Happy},
+324,389,2024-11-13 14:38:24.728,{Relaxed},
+325,386,2024-11-13 14:38:48.271,{Relaxed},
+326,377,2024-11-13 14:39:34.934,{Happy},I get to do bulls today
+327,389,2024-11-13 14:39:54.459,"{Focused,Relaxed,Happy}",I woke up late and almost missed chapel
+328,373,2024-11-13 14:40:02.156,{Focused},
+329,405,2024-11-13 14:40:10.347,"{Happy,Relaxed,Worried}","cheer
+"
+330,358,2024-11-13 14:40:25.949,{Relaxed},
+331,360,2024-11-13 14:40:27.264,{Happy},
+332,414,2024-11-13 14:40:37.084,{Excited},i just feel good and I woke up early
+333,345,2024-11-13 14:42:15.572,"{Happy,Relaxed,Focused}",
+334,361,2024-11-13 14:43:26.715,{Happy},
+335,389,2024-11-13 14:45:56.912,"{Focused,Relaxed,Happy}",
+336,387,2024-11-13 14:46:18.798,"{Happy,Relaxed,Focused}",
+337,360,2024-11-13 14:46:58.415,{Happy},
+338,411,2024-11-13 15:34:47.88,{Happy},
+339,351,2024-11-13 15:35:24.957,{Happy},hghiobgsoi
+340,362,2024-11-13 15:35:34.352,{Happy},"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+because I am ready to do this.
+
+
+
+"
+341,419,2024-11-13 15:35:45.818,{Excited},
+342,351,2024-11-13 15:40:12.729,{Happy},fed
+343,408,2024-11-13 15:42:04.422,{Anxious},
+344,352,2024-11-13 15:44:22.668,{Anxious},I have to make a speech today.
+345,409,2024-11-13 15:46:23.94,"{Relaxed,Tired}",
+346,339,2024-11-13 15:47:47.266,{Tired},not everything went that well
+347,346,2024-11-13 15:49:25.587,{Relaxed},
+348,374,2024-11-13 15:50:01.582,{Relaxed},
+349,385,2024-11-13 16:00:43.774,{Relaxed},
+350,390,2024-11-13 16:09:04.658,{Tired},
+351,385,2024-11-13 16:10:07.174,{Relaxed},
+352,400,2024-11-13 16:11:15.644,{Anxious},
+353,390,2024-11-13 16:11:17.598,{Tired},
+354,393,2024-11-13 16:13:36.145,"{Mad,Frustrated}",Ava and Emma made me clean up the whole mess.
+355,451,2024-11-13 16:18:18.953,{Happy},
+356,348,2024-11-13 16:18:32.473,{Worried},There is a person around the school that should not be.
+357,366,2024-11-13 16:19:41.126,{Tired},
+358,393,2024-11-13 16:23:03.451,{Mad},"because I don't think that Emma and Ava don't want me in the group any more.
+"
+359,355,2024-11-13 16:26:17.316,{Worried},because there is something happening at our school
+360,400,2024-11-13 16:26:54.025,{Relaxed},
+361,454,2024-11-13 16:27:16.198,{Excited},
+362,348,2024-11-13 16:28:35.492,{Worried},
+363,348,2024-11-13 16:28:48.282,{Worried},
+364,378,2024-11-13 16:30:29.757,{Tired},
+365,371,2024-11-13 16:35:09.012,{Frustrated},
+366,371,2024-11-13 16:36:05.668,{Frustrated},
+367,454,2024-11-13 16:36:39.18,{Excited},
+368,343,2024-11-13 16:36:47.928,{Anxious},
+369,378,2024-11-13 16:38:04.228,{Tired},
+370,343,2024-11-13 16:45:26.499,{Relaxed},
+371,427,2024-11-13 16:46:27.04,{Happy},
+372,403,2024-11-13 16:47:12.261,"{Happy,Relaxed,Focused}",
+373,413,2024-11-13 16:47:16.185,{Worried},
+374,371,2024-11-13 16:47:45.493,{Frustrated},
+375,370,2024-11-13 16:49:54.111,"{Anxious,Worried,Sad}",
+376,412,2024-11-13 16:54:02.4,{Worried},
+377,427,2024-11-13 16:54:20.281,{Happy},
+378,403,2024-11-13 16:55:59.072,"{Happy,Relaxed,Focused}",
+379,413,2024-11-13 16:58:29.921,{Worried},
+380,394,2024-11-13 18:03:24.091,{Happy},"basketball game today
+"
+381,398,2024-11-13 18:03:41.272,{Relaxed},
+382,356,2024-11-13 18:04:03.951,{Happy},
+383,335,2024-11-13 18:05:19.599,"{Happy,Relaxed,Excited}",
+384,395,2024-11-13 18:05:51.256,{Happy},
+385,336,2024-11-13 18:05:56.683,{Tired},
+386,401,2024-11-13 18:06:11.729,{Tired},I need sleep
+387,364,2024-11-13 18:06:37.215,"{Relaxed,Happy}",
+388,394,2024-11-13 18:08:15.585,{Relaxed},"no reason
+"
+389,391,2024-11-13 18:11:10.906,"{Focused,Relaxed,Happy}",wkjrqkweqm
+390,404,2024-11-13 18:12:25.683,"{Happy,Sad}",Im sad becaue my sinuses hurt from my runny nose
+391,335,2024-11-13 18:13:43.483,"{Happy,Relaxed,Excited}",
+392,364,2024-11-13 18:13:49.896,"{Happy,Relaxed}",
+393,372,2024-11-13 18:14:15.831,{Happy},
+394,344,2024-11-13 18:26:14.373,"{Anxious,Happy,Tired}",I was sick and this Is my first day back at school
+395,410,2024-11-13 18:31:26.1,{Sad},"It won't let me finish leadership minutes
+"
+396,17,2024-11-13 18:47:41.045,"{Happy,Tired,Frustrated}",
+397,345,2024-11-14 13:01:00.173,"{Happy,Focused,Excited}",
+398,357,2024-11-14 13:33:25.544,{Happy},
+399,385,2024-11-14 13:36:41.919,{Tired},
+400,402,2024-11-14 13:36:43.761,"{Relaxed,Focused,Happy}",
+401,374,2024-11-14 13:36:56.892,{Happy},
+402,379,2024-11-14 13:36:57.284,{Tired},I woke up early
+403,403,2024-11-14 13:37:27.695,"{Tired,Happy,Relaxed}",
+404,427,2024-11-14 13:37:46.85,{Happy},
+405,339,2024-11-14 13:37:57.434,{Tired},not unof sleep
+406,411,2024-11-14 13:38:06.616,{Happy},
+407,380,2024-11-14 13:38:44.635,{Tired},"did not sleep
+
+
+"
+408,349,2024-11-14 13:39:23.021,"{Happy,Relaxed,Tired}","Because today is a dress up day.
+"
+409,408,2024-11-14 13:39:51.295,{Anxious},
+410,396,2024-11-14 13:40:15.755,{Mad},because  my brother  wacke me  in the  night
+411,376,2024-11-14 13:40:34.445,"{Tired,Relaxed,Excited}",
+412,392,2024-11-14 13:40:39.508,{Happy},
+413,387,2024-11-14 13:40:53.737,"{Happy,Relaxed,Focused}",
+414,360,2024-11-14 13:41:07.547,{Happy},
+415,369,2024-11-14 13:41:08.944,{Excited},ohio state
+416,346,2024-11-14 13:41:17.327,{Tired},I feel tired because woke up at the middle of the night to do my hair
+417,409,2024-11-14 13:41:27.976,"{Tired,Relaxed}","I just got to school.
+"
+418,381,2024-11-14 13:41:47.471,"{Happy,Relaxed}",
+419,415,2024-11-14 13:41:51.182,{Happy},
+420,384,2024-11-14 13:41:56.205,"{Happy,Relaxed,Excited}","I got sleep
+
+"
+421,378,2024-11-14 13:42:03.549,{Tired},
+422,352,2024-11-14 13:42:10.046,{Happy},because the day has been fun.
+423,357,2024-11-14 13:42:12.522,{Happy},
+424,400,2024-11-14 13:42:22.37,"{Excited,Happy}",hi
+425,371,2024-11-14 13:42:34.675,{Frustrated},
+426,393,2024-11-14 13:42:38.951,{Happy},"I just came to school as a person from a book
+"
+427,371,2024-11-14 13:42:44.375,{Tired},
+428,348,2024-11-14 13:42:46.892,{Excited},At 2:45 it is movie and popcorn and Hot Chocolate.
+429,355,2024-11-14 13:42:51.325,{Happy},
+430,417,2024-11-14 13:43:01.624,{Frustrated},"Because all the girls did American girl dolls and they didn't even reach out to me to check if I wanted to be an american girl dolls because I have the perfect costume.😡"
+431,371,2024-11-14 13:43:01.655,{Tired},
+432,400,2024-11-14 13:43:25.978,{Happy},
+433,399,2024-11-14 13:43:34.532,{Happy},because I am ready to get the day started
+434,341,2024-11-14 13:44:11.787,"{Tired,Relaxed}",
+435,412,2024-11-14 13:44:26.476,{Tired},
+436,451,2024-11-14 13:44:26.977,{Happy},
+437,454,2024-11-14 13:44:38.742,{Excited},
+438,377,2024-11-14 13:44:41.078,{Happy},It is dress up like a book character day 
+439,366,2024-11-14 13:44:46.386,{Relaxed},i did not qack mi lunck
+440,402,2024-11-14 13:45:13.032,{Relaxed},
+441,386,2024-11-14 13:45:14.737,{Happy},"I'm dressed up as me
+"
+442,343,2024-11-14 13:45:20.03,{Happy},
+443,427,2024-11-14 13:45:26.724,{Happy},
+444,407,2024-11-14 13:45:41.258,{Happy},
+445,405,2024-11-14 13:46:19.419,"{Happy,Relaxed,Worried}",
+446,403,2024-11-14 13:46:22.125,"{Tired,Happy,Relaxed}",
+447,397,2024-11-14 13:46:57.699,"{Tired,Relaxed}",
+448,373,2024-11-14 13:46:57.726,{Excited},
+449,389,2024-11-14 13:47:02.048,{Relaxed},
+450,345,2024-11-14 13:48:01.901,"{Happy,Relaxed,Focused}",
+451,342,2024-11-14 13:48:22.739,{Happy},
+452,361,2024-11-14 13:48:26.021,{Happy},
+453,414,2024-11-14 13:48:29.59,{Happy},"because I got a donut and a ticket also I'm going on a trip tomorrow and my dad is picking me up."
+454,365,2024-11-14 13:48:37.194,{Relaxed},
+455,388,2024-11-14 13:49:08.461,{Happy},l feel happy 
+456,380,2024-11-14 13:49:09.269,{Tired},I did not sleep
+457,396,2024-11-14 13:49:21.245,{Mad},becues my brouther wacke me up
+458,367,2024-11-14 13:49:43.403,{Happy},yfhgaz
+459,354,2024-11-14 13:50:00.363,{Tired}, 
+460,349,2024-11-14 13:50:46.987,"{Happy,Relaxed}",
+461,370,2024-11-14 13:51:22.162,"{Happy,Tired,Excited}",
+462,390,2024-11-14 13:51:25.469,"{Excited,Happy}",
+463,375,2024-11-14 13:51:35.362,{Relaxed},
+464,384,2024-11-14 13:52:05.933,"{Happy,Relaxed,Excited}",sleep
+465,371,2024-11-14 13:52:13.358,{Tired},
+466,348,2024-11-14 13:52:50.092,{Excited},
+467,409,2024-11-14 13:52:56.047,"{Tired,Relaxed}",
+468,413,2024-11-14 13:53:28.885,{Excited},
+469,360,2024-11-14 13:53:39.316,{Happy},
+470,378,2024-11-14 13:53:40.947,{Tired},
+471,386,2024-11-14 13:53:42.765,{Happy},
+472,341,2024-11-14 13:53:49.704,"{Tired,Relaxed}",
+473,454,2024-11-14 13:54:14.772,{Excited},
+474,389,2024-11-14 13:54:47.749,{Relaxed},
+475,387,2024-11-14 13:55:50.988,"{Happy,Relaxed,Focused}",
+476,358,2024-11-14 13:58:24.486,{Relaxed},
+477,413,2024-11-14 14:02:24.69,{Excited},
+478,359,2024-11-14 14:03:38.907,{Worried},
+479,398,2024-11-14 14:31:49.972,{Relaxed},
+480,395,2024-11-14 14:32:18.612,{Happy},
+481,404,2024-11-14 14:32:41.625,{Happy},we have a dress up day and im the grinch and its super comfy
+482,391,2024-11-14 14:33:11.114,"{Happy,Relaxed,Focused}",
+483,391,2024-11-14 14:33:32.573,"{Tired,Focused,Happy}",
+484,337,2024-11-14 14:34:11.308,"{Focused,Anxious,Sad}",
+485,394,2024-11-14 14:34:25.12,{Tired},"I woke up at 6 am
+"
+486,356,2024-11-14 14:34:45.617,{Tired},
+487,336,2024-11-14 14:35:11.3,{Tired},Got at school at 7 a.m.
+488,335,2024-11-14 14:35:40.82,"{Happy,Relaxed,Excited}",
+489,372,2024-11-14 14:36:19.604,{Happy},
+490,410,2024-11-14 14:36:58.44,"{Tired,Excited}","We're doing jailbreak in PE today"
+491,364,2024-11-14 14:38:07.841,"{Happy,Relaxed,Focused}",
+492,418,2024-11-14 14:38:27.665,"{Focused,Anxious,Happy}",
+493,391,2024-11-14 14:39:15.338,"{Tired,Relaxed,Happy}",
+494,395,2024-11-14 14:39:30.545,{Happy},
+495,394,2024-11-14 14:40:17.166,{Tired},
+496,356,2024-11-14 14:40:23.768,{Tired},
+497,351,2024-11-14 14:40:37.891,{Happy},rjnjiknlfr
+498,335,2024-11-14 14:42:36.11,"{Happy,Relaxed,Excited}",
+499,404,2024-11-14 14:43:14.283,"{Relaxed,Happy}",
+500,337,2024-11-14 14:44:30.431,"{Anxious,Relaxed,Tired}",
+501,336,2024-11-14 14:44:45.194,{Relaxed},
+502,372,2024-11-14 14:45:10.966,{Frustrated},"I don't like this app
+"
+503,364,2024-11-14 14:45:50.862,"{Happy,Focused,Relaxed}",
+504,351,2024-11-14 14:46:13.613,{Happy},
+505,382,2024-11-14 15:42:56.278,{Focused},
+506,343,2024-11-14 15:46:27.335,{Excited},
+507,17,2024-11-15 11:58:49.271,"{Worried,Focused,Frustrated}",
+508,407,2024-11-15 13:33:17.452,{Tired},
+509,415,2024-11-15 13:33:58.472,{Happy},
+510,416,2024-11-15 13:34:30.591,"{Happy,Relaxed}",its a good day
+511,402,2024-11-15 13:35:18.438,{Relaxed},
+512,385,2024-11-15 13:35:29.863,{Tired},
+513,374,2024-11-15 13:36:09.579,{Tired},
+514,369,2024-11-15 13:36:17.505,{Happy},"ohio state 
+"
+515,454,2024-11-15 13:36:57.206,{Excited},
+516,379,2024-11-15 13:37:19.547,{Tired},I woke up early
+517,384,2024-11-15 13:37:34.901,"{Happy,Relaxed,Excited}","I got sleep
+"
+518,373,2024-11-15 13:37:43.809,{Excited},
+519,350,2024-11-15 13:37:46.631,{Relaxed},
+520,381,2024-11-15 13:37:47.626,"{Happy,Relaxed}",
+521,361,2024-11-15 13:38:13.982,{Happy},
+522,408,2024-11-15 13:38:20.981,{Tired},I barely got any sleep
+523,380,2024-11-15 13:38:27.318,{Tired},"I didn't want to wake up and I could not open my eyes."
+524,382,2024-11-15 13:38:44.233,{Tired},
+525,349,2024-11-15 13:38:44.253,"{Happy,Relaxed,Tired}",
+526,407,2024-11-15 13:39:15.719,{Tired},
+527,357,2024-11-15 13:39:20.086,"{Happy,Excited}",
+528,386,2024-11-15 13:39:32.859,{Happy},
+529,399,2024-11-15 13:39:39.205,{Happy},
+530,377,2024-11-15 13:39:51.869,{Happy},I am always happy when I wake up.
+531,419,2024-11-15 13:40:28.263,{Relaxed},
+532,342,2024-11-15 13:40:34.983,{Happy},
+533,352,2024-11-15 13:40:36.59,{Happy},Because I am going to have a good day at school.
+534,339,2024-11-15 13:41:12.632,{Happy},"just because
+"
+535,367,2024-11-15 13:41:13.464,{Happy},"be happy to meet Jeremiah hamster 
+
+"
+536,376,2024-11-15 13:41:39.273,"{Tired,Relaxed}",
+537,403,2024-11-15 13:41:51.428,"{Happy,Tired,Relaxed}",
+538,402,2024-11-15 13:42:09.939,{Relaxed},
+539,416,2024-11-15 13:42:13.146,{Happy},
+540,343,2024-11-15 13:42:40.543,"{Relaxed,Excited,Tired}",
+541,378,2024-11-15 13:42:50.575,{Tired},
+542,412,2024-11-15 13:43:12.805,{Tired},
+543,348,2024-11-15 13:43:22.952,{Focused},Just because.
+544,427,2024-11-15 13:43:54.887,{Happy},
+545,369,2024-11-15 13:44:12.642,"{Tired,Relaxed}",d
+546,411,2024-11-15 13:44:27.59,{Sad},Cause
+547,384,2024-11-15 13:45:29.35,"{Happy,Relaxed,Excited}",sleep and cats
+548,375,2024-11-15 13:45:52.996,{Tired},
+549,384,2024-11-15 13:46:18.435,"{Happy,Relaxed,Excited}",cats
+550,387,2024-11-15 13:46:45.872,"{Happy,Relaxed,Focused}",
+551,454,2024-11-15 13:47:06.27,{Excited},
+552,389,2024-11-15 13:47:13.378,{Relaxed},
+553,358,2024-11-15 13:47:47.017,{Relaxed},
+554,342,2024-11-15 13:48:07.725,{Happy},
+555,371,2024-11-15 13:48:11.887,"{Tired,Frustrated}",
+556,354,2024-11-15 13:48:21.41,{Relaxed},
+557,389,2024-11-15 13:48:24.195,{Relaxed},
+558,360,2024-11-15 13:48:31.296,{Happy},
+559,415,2024-11-15 13:48:55.44,{Happy},
+560,386,2024-11-15 13:48:57.666,{Happy},
+561,396,2024-11-15 13:49:02.355,{Happy},becues my mom give me candy.
+562,341,2024-11-15 13:49:04.231,"{Tired,Relaxed}",
+563,365,2024-11-15 13:49:04.381,{Relaxed},
+564,390,2024-11-15 13:49:24.299,{Anxious},
+565,361,2024-11-15 13:49:38.751,{Happy},
+566,355,2024-11-15 13:51:15.789,{Focused},
+567,348,2024-11-15 13:51:21.986,{Focused},
+568,377,2024-11-15 13:51:24.533,{Happy},I  always wake up happy
+569,360,2024-11-15 13:52:13.311,{Happy},
+570,403,2024-11-15 13:52:24.731,"{Happy,Relaxed,Focused}",
+571,389,2024-11-15 13:53:24.509,{Relaxed},
+572,343,2024-11-15 13:53:34.998,{Happy},
+573,451,2024-11-15 13:53:43.007,{Happy},
+574,346,2024-11-15 13:53:46.635,{Tired}," cuase im tirde
+"
+575,366,2024-11-15 13:54:38.454,{Excited},
+576,354,2024-11-15 13:54:58.274,{Relaxed},
+577,413,2024-11-15 13:55:14.092,{Mad},
+578,371,2024-11-15 13:55:36.314,{Tired},
+579,370,2024-11-15 13:55:44.459,"{Relaxed,Excited,Frustrated}",
+580,427,2024-11-15 13:55:56.19,{Happy},
+581,393,2024-11-15 13:56:10.725,"{Relaxed,Happy,Excited}",
+582,387,2024-11-15 13:56:23.029,{Happy},
+583,400,2024-11-15 13:56:38.959,"{Excited,Happy,Relaxed}",
+584,409,2024-11-15 13:57:08.949,{Frustrated},"Because my friend Weston overreacts WAY TO MUCH!!!!!!!!!!!
+"
+585,378,2024-11-15 13:57:09.244,{Tired},
+586,390,2024-11-15 14:00:17.889,{Relaxed},
+587,398,2024-11-15 17:50:51.088,{Relaxed},
+588,395,2024-11-15 17:51:27.151,{Happy},
+589,335,2024-11-15 17:52:10.438,"{Happy,Focused,Relaxed}",
+590,418,2024-11-15 17:52:33.279,"{Focused,Excited,Relaxed}",
+591,372,2024-11-15 17:54:30.48,"{Frustrated,Happy}",
+592,395,2024-11-15 17:55:42.95,{Happy},
+593,404,2024-11-15 17:56:55.541,"{Happy,Excited}","I'm happy because its Friday and I have dinner with my best friend
+"
+594,418,2024-11-15 18:01:12.288,"{Focused,Relaxed,Happy}",
+595,372,2024-11-15 18:03:49.347,{Happy},
+596,363,2024-11-15 18:05:13.848,{Happy},
+597,345,2024-11-15 19:25:59.736,{Excited},
+598,17,2024-11-16 14:13:47.527,"{Focused,Worried,Frustrated}",
+599,17,2024-11-16 20:00:42.773,"{Sad,Frustrated,Worried}",
+603,57,2024-11-17 04:30:51.479,"{Worried,Relaxed,Focused}",
+604,369,2024-11-18 13:33:16.135,{Happy},green Bay won
+605,349,2024-11-18 13:34:05.874,"{Relaxed,Tired,Happy}",
+606,402,2024-11-18 13:35:43.146,"{Relaxed,Happy}",
+607,357,2024-11-18 13:35:43.489,{Happy},
+608,389,2024-11-18 13:35:46.057,{Relaxed},
+609,381,2024-11-18 13:36:06.824,{Tired},
+610,379,2024-11-18 13:36:49.557,{Tired},Woke up early
+611,367,2024-11-18 13:37:28.933,{Happy},for today 
+612,389,2024-11-18 13:39:26.412,{Relaxed},
+613,360,2024-11-18 13:39:37.731,"{Happy,Focused,Excited}",
+614,386,2024-11-18 13:39:57.859,{Worried},
+615,454,2024-11-18 13:40:38.544,{Excited},
+616,375,2024-11-18 13:40:42.249,{Excited},
+617,377,2024-11-18 13:41:04.2,{Tired},"I did not get a lot of sleep.
+"
+618,402,2024-11-18 13:41:35.75,{Relaxed},
+619,415,2024-11-18 13:41:55.02,{Happy},
+620,403,2024-11-18 13:42:30.641,"{Tired,Relaxed,Happy}",
+621,367,2024-11-18 13:43:36.456,{Happy},
+622,416,2024-11-18 13:43:38.536,{Happy},good day
+623,427,2024-11-18 13:43:57.512,{Happy},
+624,366,2024-11-18 13:44:01.493,"{Focused,Relaxed}",
+625,371,2024-11-18 13:44:16.83,"{Tired,Frustrated}",
+626,451,2024-11-18 13:44:25.046,{Happy},
+627,376,2024-11-18 13:44:54.538,"{Tired,Relaxed,Anxious}",
+628,365,2024-11-18 13:45:53.966,"{Sad,Tired}",
+629,342,2024-11-18 13:46:02.168,{Happy},
+630,341,2024-11-18 13:46:11.091,{Tired},
+631,354,2024-11-18 13:46:11.606,"{Relaxed,Worried}",
+632,370,2024-11-18 13:46:16.783,"{Relaxed,Happy,Excited}",
+633,415,2024-11-18 13:46:45.104,{Happy},
+634,397,2024-11-18 13:46:52.091,{Tired},"pain
+"
+635,361,2024-11-18 13:46:55.911,{Happy},
+636,412,2024-11-18 13:47:23.532,{Tired},
+637,413,2024-11-18 13:47:31.94,{Happy},
+638,387,2024-11-18 13:47:56.846,"{Happy,Relaxed,Focused}",
+639,417,2024-11-18 13:49:24.386,{Mad},"I'm mad because my water bottle spilled all over me and the front desk ladies said that they couldn't take the papers for my physical and we stayed up late to finish it and they just threw it away.😡😡😡"
+640,350,2024-11-18 13:49:45.188,{Tired},I went to a pacers game and mostly all week I have been waking up at 7:00  
+641,371,2024-11-18 13:50:25.164,"{Tired,Frustrated}",
+642,358,2024-11-18 13:52:17.232,{Relaxed},
+643,348,2024-11-18 13:52:42.716,{Happy},I am so excited for Christmas. Yay
+644,360,2024-11-18 13:53:00.399,"{Happy,Focused,Excited}",
+645,403,2024-11-18 13:53:15.041,"{Happy,Focused,Relaxed}",
+646,361,2024-11-18 13:53:57.663,"{Happy,Relaxed,Worried}",
+647,405,2024-11-18 13:55:55.249,"{Relaxed,Tired,Happy}",
+648,427,2024-11-18 13:57:16.273,{Happy},
+649,387,2024-11-18 13:57:41.482,{Happy},
+650,377,2024-11-18 13:58:08.348,"{Tired,Happy}",I did not get a lot of sleep last night but the day and my best friend helped me wake up and not be so tired because it mite make me unhappy and 
+651,385,2024-11-18 15:00:02.94,{Tired},
+652,351,2024-11-18 17:52:43.944,{Happy},"hjxnhbksy
+"
+653,356,2024-11-18 17:52:47.525,{Happy},
+654,395,2024-11-18 17:52:51.116,{Happy},
+655,398,2024-11-18 17:52:52.033,{Relaxed},
+656,363,2024-11-18 17:53:05.371,{Happy},
+657,364,2024-11-18 17:53:50.739,"{Happy,Focused,Worried}",I am worried because I have to get my blood drawn today
+658,391,2024-11-18 17:54:16.361,"{Tired,Relaxed}",did not get alot of sleep
+659,394,2024-11-18 17:54:44.726,{Mad},because Kate just told the teacher that we have to do sculoo
+660,404,2024-11-18 17:55:19.143,"{Happy,Tired}","I'm very tired because I had a sleepover two times and woke up early \
+"
+661,340,2024-11-18 17:55:38.426,"{Worried,Excited}","Because I'm almost going to get braces."
+662,344,2024-11-18 17:55:48.669,"{Happy,Relaxed,Tired}",because I stayed up till 1 in the morning on sat 
+663,401,2024-11-18 17:55:49.218,{Tired},"I'm just kinda bored am I'm a little sick
+"
+664,368,2024-11-18 17:56:06.646,{Tired},
+665,336,2024-11-18 17:56:33.126,{Mad},We have to do sculoo
+666,351,2024-11-18 17:57:31.391,{Relaxed},
+667,335,2024-11-18 17:57:38.416,"{Happy,Relaxed,Excited}",
+668,338,2024-11-18 17:58:29.198,"{Focused,Relaxed}","Hi,"
+669,363,2024-11-18 17:58:53.084,{Happy},
+670,391,2024-11-18 17:59:10.66,"{Tired,Happy,Relaxed}",did not get lots of sleep
+671,383,2024-11-18 17:59:36.567,"{Focused,Happy,Relaxed}",
+672,353,2024-11-18 17:59:41.073,{Tired},I was sick on Sunday.
+673,344,2024-11-18 17:59:59.412,"{Mad,Happy}",
+674,364,2024-11-18 18:01:32.381,"{Worried,Happy,Relaxed}",
+675,410,2024-11-18 18:03:08.691,{Mad},we have to do sculoo
+676,418,2024-11-18 18:03:45.343,"{Happy,Relaxed,Excited}",
+677,340,2024-11-18 18:04:20.899,{Happy},
+678,335,2024-11-18 18:06:05.461,"{Relaxed,Happy,Excited}",
+679,368,2024-11-18 18:06:21.546,{Tired},
+680,418,2024-11-18 18:16:34.909,"{Happy,Relaxed,Excited}",
+681,416,2024-11-19 13:33:40.107,{Happy},good day
+682,402,2024-11-19 13:35:32.952,{Relaxed},
+683,386,2024-11-19 13:36:19.62,{Tired},
+684,367,2024-11-19 13:36:56.716,{Happy},"today
+"
+685,415,2024-11-19 13:37:15.367,{Happy},
+686,384,2024-11-19 13:37:41.682,"{Happy,Relaxed,Excited}",Sleep and cats
+687,387,2024-11-19 13:37:52.133,"{Happy,Relaxed,Focused}",
+688,377,2024-11-19 13:37:56.035,{Sad},
+689,381,2024-11-19 13:38:28.729,"{Happy,Relaxed}",
+690,361,2024-11-19 13:38:29.869,"{Tired,Mad,Frustrated}",
+691,350,2024-11-19 13:39:04.121,"{Happy,Relaxed,Focused}",
+692,379,2024-11-19 13:40:21.016,{Tired},I woke early
+693,413,2024-11-19 13:40:27.208,{Happy},
+694,361,2024-11-19 13:40:32.087,"{Focused,Happy,Excited}",
+695,416,2024-11-19 13:41:00.715,{Happy},
+696,345,2024-11-19 13:41:18.243,"{Relaxed,Tired,Sad}",
+697,403,2024-11-19 13:41:32.312,"{Happy,Relaxed,Focused}",
+698,427,2024-11-19 13:41:57.956,{Happy},
+699,369,2024-11-19 13:42:07.165,{Happy},"happy
+"
+700,375,2024-11-19 13:42:19.837,{Excited},Cause I have to cheer at two games today.
+701,348,2024-11-19 13:42:29.986,{Sad},"Mom said  that I have to finish a book that I don't want to read."
+702,402,2024-11-19 13:43:05.243,{Relaxed},
+703,365,2024-11-19 13:43:16.579,{Tired},
+704,414,2024-11-19 13:43:44.633,{Happy},because I saw my grandma
+705,360,2024-11-19 13:44:01.49,{Happy},
+706,399,2024-11-19 13:44:07.894,"{Excited,Happy}",I am Happy and excited to get the day started.
+707,389,2024-11-19 13:44:23.301,{Relaxed},
+708,367,2024-11-19 13:44:24.755,{Happy},
+709,415,2024-11-19 13:44:26.24,{Happy},
+710,341,2024-11-19 13:44:37.062,{Relaxed},
+711,354,2024-11-19 13:46:57.185,{Relaxed},
+712,454,2024-11-19 13:46:59.206,{Excited},
+713,361,2024-11-19 13:47:15.642,"{Happy,Focused,Excited}",
+714,378,2024-11-19 13:47:21.852,{Tired},Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+715,366,2024-11-19 13:47:30.222,{Excited},"Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.and don't ask a gen..."
+716,386,2024-11-19 13:47:40.413,{Tired},
+717,358,2024-11-19 13:47:55.009,{Relaxed},
+718,371,2024-11-19 13:48:07.452,"{Tired,Frustrated}",
+719,371,2024-11-19 13:48:23.634,"{Tired,Frustrated}",
+720,376,2024-11-19 13:48:38.991,"{Tired,Anxious,Relaxed}",
+721,343,2024-11-19 13:48:48.542,{Tired},"no don't  ask again"
+722,389,2024-11-19 13:48:53.684,{Relaxed},
+723,384,2024-11-19 13:49:19.724,"{Happy,Relaxed,Excited}",sleep cats
+724,417,2024-11-19 13:49:28.942,"{Excited,Anxious}","I'm excited because My play is on Friday and Saturday and I am anxious because not everyone is ready."
+725,348,2024-11-19 13:49:44.214,{Sad},
+726,370,2024-11-19 13:49:45.709,"{Happy,Relaxed,Anxious}",
+727,403,2024-11-19 13:50:04.507,"{Happy,Relaxed,Focused}",
+728,360,2024-11-19 13:50:12.784,"{Happy,Focused,Excited}",excited about the day
+729,451,2024-11-19 13:50:41.017,{Happy},
+730,387,2024-11-19 13:50:41.851,{Happy},
+731,373,2024-11-19 13:52:05.935,{Tired},
+732,427,2024-11-19 13:52:33.571,{Happy},nooooooooooooooooooooooooooooooooo
+733,405,2024-11-19 13:53:28.016,"{Happy,Relaxed,Anxious}",
+734,371,2024-11-19 13:55:07.955,"{Tired,Frustrated}",
+735,355,2024-11-19 13:55:39.679,{Worried},cause my bathroom flooded with water
+736,376,2024-11-19 13:55:39.813,"{Relaxed,Tired,Anxious}",
+737,378,2024-11-19 13:59:07.074,{Tired},nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+738,465,2024-11-19 16:13:28.412,{Happy},
+739,59,2024-11-19 17:00:05.96,"{Happy,Excited}",
+740,399,2024-11-19 19:34:36.819,"{Happy,Relaxed}",because I just did this app.
+741,350,2024-11-20 13:32:44.748,"{Focused,Tired,Mad}",
+742,349,2024-11-20 13:33:11.223,"{Worried,Relaxed,Happy}",
+743,416,2024-11-20 13:33:38.159,{Happy},
+744,381,2024-11-20 13:34:46.969,"{Happy,Tired}",
+745,408,2024-11-20 13:35:14.241,{Relaxed},
+746,379,2024-11-20 13:35:45.37,{Tired},I woke early
+747,385,2024-11-20 13:35:59.125,{Tired},
+748,346,2024-11-20 13:36:21.723,{Tired},
+749,374,2024-11-20 13:37:18.479,{Tired},
+750,382,2024-11-20 13:37:18.563,{Tired},
+751,402,2024-11-20 13:37:27.581,"{Relaxed,Excited}",
+752,339,2024-11-20 13:37:34.347,{Relaxed},good day
+753,409,2024-11-20 13:37:57.412,"{Tired,Relaxed}","I Just got to school
+"
+754,361,2024-11-20 13:38:00.417,"{Happy,Tired}",
+755,375,2024-11-20 13:38:06.316,{Relaxed},
+756,387,2024-11-20 13:38:32.988,"{Happy,Relaxed,Focused}",
+757,369,2024-11-20 13:39:01.538,{Excited},awa
+758,386,2024-11-20 13:39:24.161,{Happy},
+759,384,2024-11-20 13:40:45.267,"{Happy,Relaxed,Excited}",Sleep Sleep Sleeep
+760,377,2024-11-20 13:40:46.005,{Sad},sad
+761,417,2024-11-20 13:43:18.287,"{Sad,Tired}","I didn't sleep much last night and I'm just sad for no reason"
+762,399,2024-11-20 13:43:21.946,"{Happy,Tired}",
+763,411,2024-11-20 13:44:26.891,{Happy},
+764,349,2024-11-20 13:48:03.794,"{Happy,Relaxed,Focused}",
+765,403,2024-11-20 15:25:46.562,"{Happy,Tired,Worried}",
+766,352,2024-11-20 16:03:21.177,{Happy},because 
+767,390,2024-11-20 16:05:12.253,{Relaxed},
+768,400,2024-11-20 16:06:05.576,{Relaxed},"becuse
+"
+769,419,2024-11-20 16:06:50.113,{Happy},
+770,393,2024-11-20 16:07:50.704,"{Relaxed,Happy,Excited}",
+771,362,2024-11-20 16:09:24.65,{Tired},because I did not get a lot of sleep.
+772,355,2024-11-20 16:10:53.169,{Happy},
+773,451,2024-11-20 16:11:39.623,{Happy},
+774,454,2024-11-20 16:12:50.745,{Excited},
+775,370,2024-11-20 16:13:04.422,"{Tired,Relaxed,Frustrated}",
+776,390,2024-11-20 16:13:27.201,{Happy},
+777,376,2024-11-20 16:16:30.689,"{Relaxed,Tired,Anxious}",
+778,400,2024-11-20 16:17:09.529,"{Happy,Relaxed,Excited}",
+779,403,2024-11-20 16:18:36.038,"{Happy,Relaxed,Focused}",
+780,371,2024-11-20 16:19:03.439,"{Tired,Frustrated,Excited}",
+781,371,2024-11-20 16:27:29.035,"{Tired,Frustrated}",
+782,348,2024-11-20 16:35:04.715,{Tired},
+783,343,2024-11-20 16:35:51.991,{Worried},noooooooooooooo
+784,412,2024-11-20 16:37:46.547,{Excited},
+785,427,2024-11-20 16:37:53.739,{Happy},
+786,427,2024-11-20 16:44:37.173,{Happy},
+787,366,2024-11-20 16:45:06.998,{Sad},Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo and do not ask a gen
+788,341,2024-11-20 19:05:05.836,"{Relaxed,Focused}",
+789,388,2024-11-20 19:07:20.268,{Happy},Happyiness
+790,397,2024-11-20 19:08:58.341,{Mad},
+791,367,2024-11-20 19:12:41.995,{Happy},"for today
+"
+792,399,2024-11-20 19:13:31.877,"{Happy,Relaxed,Excited}",
+793,392,2024-11-20 19:14:14.951,{Happy},
+794,397,2024-11-20 19:15:00.142,{Mad},
+795,17,2024-11-21 11:17:04.993,{Worried},
